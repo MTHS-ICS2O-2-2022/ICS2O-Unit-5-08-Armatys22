@@ -15,7 +15,7 @@
 }
 
 .mdl-textfield__error {
-  color: lightsteelblue;
+  color: rgb(134 234 47);
 }
 
 .page-content {
@@ -23,9 +23,8 @@
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.25rem;
 }
-
 .page-content-answer {
-  color: lightslategray;
+  color: rgb(23 115 207);
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.25rem;
 }
@@ -37,7 +36,7 @@
 }
 
 body {
-  background-color: lightsteelblue;
+  background-color: rgb(244 222 18);
 }
 
 img {
