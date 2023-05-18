@@ -40,7 +40,9 @@ body {
 }
 
 img {
+  height: 400px;
+  width: 450px;
   float: right;
-  width: 600px;
-  height: auto;
+  margin-bottom: 100;
+  margin-right: 100;
 }
